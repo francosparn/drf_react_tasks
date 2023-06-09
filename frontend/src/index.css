@@ -1,0 +1,65 @@
+/* General */
+body{
+    background-color: #252525f8;
+    font-family: 'Poppins';
+    color: #fff;
+}
+
+/* Navbar */
+.title{
+    text-decoration: none;
+    color: #fff;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.title:hover{
+    color: #f1f1f1;
+}
+
+.title i{
+    margin-right: 10px;
+}
+
+.navbar{
+    background-color: #333;
+}
+
+.navbar i{
+    color: #ffc107;
+}
+
+/* Card */
+.card{
+    cursor: pointer;
+    background-color: #333;
+    color: #fff;
+}
+
+.icon-complete{
+    margin-right: 10px;
+    color: #b9b9b9;
+}
+
+.icon-incomplete{
+    margin-right: 10px;
+    color: rgba(83, 189, 115, 0.849);
+}
+
+.created_at{
+    font-size: 12px;
+    margin-top: 6px;
+    float: right;
+}
+
+/* Pagination */
+.btn-previous{
+    margin-right: 10px;
+}
+
+/* Footer */
+.author{
+    text-decoration: none;
+    color: rgb(231, 194, 25);
+}
