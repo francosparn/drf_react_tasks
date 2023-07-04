@@ -1,4 +1,4 @@
-# Task App
+# :rocket: Task App
 
 Web application of CRUD type tasks.
 
