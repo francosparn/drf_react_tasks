@@ -56,6 +56,3 @@ It is almost ready, now it only remains to execute the project with the followin
 ```
 python manage.py runserver
 ```
-https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
